@@ -21,3 +21,4 @@ Upgrades & Improvements:
 
 This upgraded system provides real-time surveillance in remote locations, making it a more advanced and effective security solution.
 
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Dead_Angles_Final/master/image1.png)
