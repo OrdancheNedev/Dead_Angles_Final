@@ -137,7 +137,7 @@ def cam_activation():
         print(f"The CSV file '{csv_file_path}' has more than just column names.")
         print("An email was sent")
         email_address = 'nedevordanche@gmail.com'
-        email_password = 'fxix jeyo txbv oaeb'
+        email_password = ''
         yag = yagmail.SMTP(email_address, email_password)
         to = 'ordanchenedev@gmail.com'
         subject = 'Motion detected'
