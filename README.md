@@ -16,8 +16,6 @@ Upgrades & Improvements:
 
 ✔ Enhanced Communication – Now uses the SIM7600X module for remote operation without Wi-Fi.
 
-✔ Automated Logging – Records movement timestamps for better event tracking.
-
-✔ Improved Security – Faster and more reliable alerts via email for real-time response.
+✔ Automated Detecting with sensor - Ultrasonic sensor is now added.
 
 This system provides real-time surveillance in remote locations, making it a more advanced and effective security solution
